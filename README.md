@@ -37,4 +37,5 @@ This repository contains the design and characterization of a comprehensive stan
 **Authors:**  Aryan Verma  
 **Course:** EECT / CE 6325 – VLSI Design (Fall 2025)  
 **Instructor:** Prof. Carl Sechen
+---
 All cells layout and schematic are zipped in **amock 1** folder
