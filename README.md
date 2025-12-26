@@ -34,6 +34,6 @@ This repository contains the design and characterization of a comprehensive stan
 5.  **HSPICE Simulation:** Validated timing and functionality under 45fF load.
 
 ---
-**Authors:** Ganesh Manjunath & Aryan Verma  
+**Authors:**  Aryan Verma  
 **Course:** EECT / CE 6325 – VLSI Design (Fall 2025)  
 **Instructor:** Prof. Carl Sechen
